@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Random_Group_Generator_V.0.0.3/1.0.0": {
+        "runtime": {
+          "Random_Group_Generator_V.0.0.3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Random_Group_Generator_V.0.0.3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
